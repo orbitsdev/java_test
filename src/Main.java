@@ -14,7 +14,7 @@ public class Main {
 		
 		try {
             // Specify the URL of your Laravel API endpoint
-            String apiUrl = "http://usmgate.org/api/create-user"; // Update with your actual API endpoint
+            String apiUrl = "https://api.publicapis.org/entries"; // Update with your actual API endpoint
 
             // Create a URL object
             URL url = new URL(apiUrl);
